@@ -4,11 +4,10 @@
 
 ## Working on
 - Blox Fruits
-- Meme Sea
-
+- 
 ### global load
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RhyanXG7/fakeRdzLoader/refs/heads/BetterStar/main.luau"))()
 ```
 
 - Blox Fruits
@@ -18,5 +17,5 @@ local Settings = {
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RhyanXG7/fakeRdzLoader/refs/heads/BetterStar/main.luau"))(Settings)
 ```
